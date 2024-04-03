@@ -1,18 +1,17 @@
 ### Hey there, I'm Gabriel Siza and this is my readme profile👋
 
-<!--
-**gabrielsob12/gabrielsob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **Data & QA Analyst**  
 
 **Profissional experiences**
 - [Honda Manaus](https://www.linkedin.com/company/honda-brasil/)
-- [Samsung Manaus](https://www.linkedin.com/company/samsung-manaus/).
+- [Samsung Manaus](https://www.linkedin.com/company/samsung-manaus/)
 
 **Education**
 - Federal University of Amazonas: Chemical Engineering (Finalist)
 - Currently doing Google Data Analysis course 💻
 - Currently doing Phyton Data Analytics course 💻
 
+**About Me**
 - 🔭 I’m currently working on a solid potfolio with some python and javascript projects.
 - 🌱 I’m currently learning a lot of Data Analisys with python and BI tools.
 - 👯 I’m currently collaborating on Frontend development (javascript + HTML + CSS) for an food app with some university friends! 🎨
