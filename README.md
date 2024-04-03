@@ -27,6 +27,3 @@ Here are some statistics about me:
 ![GitHub Stats - gabrielsob12](https://github-readme-stats.vercel.app/api?username=gabrielsob12&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsob12)](https://github.com/gabrielsob12/github-readme-stats)
-
-
-
